@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 my name is rudra
 =======
 my name is kunu
 >>>>>>> a3498de44eb7688efd96ddf6aa08a6ab740e5b6d
+=======
+my name is rudra
+>>>>>>> 35ce39cbaed9d6a04a4ef95ffa43f72454d60b9e
